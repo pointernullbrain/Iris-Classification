@@ -80,3 +80,9 @@ If you prefer running this script natively on your machine, complete the system 
 * Download the **`P167590_STQD6324_IrisClassification.ipynb`** file from this repository.
 * Open Jupyter Notebook and navigate to where the .ipynb file is located.
 * Click **Run > Run All Cells**
+
+# 🔍 References
+Dani, Y., & Ginting, M. A. (2024). Comparison of Iris dataset classification with Gaussian naïve Bayes and decision tree algorithms. International Journal of Electrical and Computer Engineering, 14(2), 1959–1968. https://doi.org/10.11591/ijece.v14i2.pp1959-1968
+
+Wu, Y., He, J., Ji, Y., Huang, G., Yao, H., Zhang, P., Xu, W., Guo, M., & Li, Y. (2019). Enhanced Classification Models for Iris Dataset. Procedia Computer Science, 162, 946–954. https://doi.org/10.1016/j.procs.2019.12.072
+
