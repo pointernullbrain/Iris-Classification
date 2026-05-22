@@ -41,10 +41,10 @@ For each model, we use a `ParamGridBuilder` to define a grid of hyperparameters 
 
 ## Strengths and Limitations
 * **Decision Tree:**
-   * *Strengths:* Easy to interpret as it imitates the logic of human thinking when making decisions (Dani and Ginting 2024)
+   * *Strengths:* Easy to interpret as it imitates the logic of human thinking when making decisions (Dani & Ginting, 2024)
    * *Limitations:* High risk of overfitting on more complex data.
 * **Random Forest:**
-    * *Strengths:* Highly robust to noise and reduces overfitting (Wu et al 2019)
+    * *Strengths:* Highly robust to noise and reduces overfitting (Wu et al., 2019)
     * *Limitations:* Hard to interpret.
 * **Logistic Regression:**
     * *Strengths:* Outputs probabilities (confidence scores) for classifications, highly efficient and fast to train.
